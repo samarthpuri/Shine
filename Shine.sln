@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shine", "Shine.csproj", "{D11B1D4F-A33C-795D-6922-27A4DF61ECDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11B1D4F-A33C-795D-6922-27A4DF61ECDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11B1D4F-A33C-795D-6922-27A4DF61ECDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11B1D4F-A33C-795D-6922-27A4DF61ECDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11B1D4F-A33C-795D-6922-27A4DF61ECDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
